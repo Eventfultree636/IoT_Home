@@ -1,0 +1,4 @@
+var(tomriddle) == 0;
+if (tomriddle ==0, function){
+then print("hi");
+)];
